@@ -1,0 +1,14 @@
+@font-face{
+    font-family: "p1";
+    src: url(fonts/OldStandardTT-Regular.ttf);
+}
+h2{
+    text-align: center;
+}
+.p1{
+    font-family: p1;
+}
+.p2{
+    font-family: p1;
+    text-align: justify;
+}
