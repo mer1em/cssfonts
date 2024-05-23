@@ -1,14 +1,22 @@
 @font-face{
-    font-family: "p1";
-    src: url(OldStandardTT-Regular.ttf);
+    font-family: "Jacques_Francois_Shadow";
+    src: url(JacquesFrancoisShadow-Regular.ttf);
 }
-h2{
-    text-align: center;
+@font-face{
+    font-family: "Original_Surfer";
+    src: url(OriginalSurfer-Regular.ttf);
+}
+@font-face{
+    font-family: "Play";
+    src: url(Play-Regular.ttf);
+}
+h3{
+    font-family: Jacques_Francois_Shadow;
 }
 .p1{
-    font-family: p1;
+    font-family: Original_Surfer;
 }
 .p2{
-    font-family: p1;
+    font-family: Play;
     text-align: justify;
 }
